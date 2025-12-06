@@ -1,5 +1,3 @@
-AI Agent Powered investment tool analyzes stock tickers and gives rating Using Nvidia NIM agents
-
 # AI Investment Insight Dashboard  
 ### Built with NVIDIA NIM + Next.js + TailwindCSS
 
