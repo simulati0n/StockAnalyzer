@@ -1,12 +1,10 @@
-# AI-investment-Research-Analyst
 AI Agent Powered investment tool analyzes stock tickers and gives rating Using Nvidia NIM agents
 
-# 🧠 AI Investment Insight Dashboard  
+# AI Investment Insight Dashboard  
 ### Built with NVIDIA NIM + Next.js + TailwindCSS
 
-## 🚀 Overview
-The **AI Investment Insight Dashboard** is a real-time stock analysis tool powered by **NVIDIA NIM AI Agents**.  
-It uses AI to analyze live stock data, financial news, and company performance to generate an **AI confidence score** that helps users make smarter investment decisions.
+## Overview
+This tool uses NVIDIA nemotron models to analyze live stock data, financial news, and company performance to generate an **AI confidence score** that helps users make smarter investment decisions.
 
 The dashboard provides:
 - 📊 Real-time ticker and price data  
